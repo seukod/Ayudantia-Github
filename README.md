@@ -25,7 +25,7 @@ Lee [INSTRUCCIONES.md](INSTRUCCIONES.md) antes de empezar.
 
 | Integrantes | Juego favorito | Película / Serie favorita | Animal favorito |
 |-------------|----------------|--------------------------|-----------------|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+|Giorgio Carlin |God of War 4 | Star Wars|Gato salvaje |
+|Francisco Contreras |Persona 3 |Pulp Fiction |Pudú |
+|Ian Cueva |God of War 3 |Spiderman 2 |Cebra |
+|Martin Jaque |Nekopara vol 1 |Origairu |Martin Pescador |
